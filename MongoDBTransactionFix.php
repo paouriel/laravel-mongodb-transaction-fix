@@ -26,7 +26,7 @@ class MongoDBTransactionFix extends Command
      *
      * @var string
      */
-    protected $connection_path = 'vendor/jenssegers/mongodb/src/Jenssegers/Mongodb/Connection.php';
+    protected $connection_path = 'vendor/jenssegers/mongodb/src/Connection.php';
 
     /**
      * Import to be searched and appended
